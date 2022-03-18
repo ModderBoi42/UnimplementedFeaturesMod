@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ufm:block/black_slab"
+    },
+    "type=double": {
+      "model": "ufm:block/black_planks"
+    },
+    "type=top": {
+      "model": "ufm:block/black_slab_top"
+    } 
+  }
+}

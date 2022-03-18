@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "ufm:block/charcoal_block_top",
+    "side": "ufm:block/charcoal_block"
+  }
+}
